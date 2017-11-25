@@ -1979,10 +1979,20 @@
 
 	.google-map {
 		position: relative;
-	    padding-bottom: 56.25%;
-	    padding-top: 35px;
-	    height: 0;
-	    overflow: hidden;
+		height: 0;
+  		overflow: hidden;
+	}
+
+	.google-map-16x9 {
+		padding-bottom: 56.25%;
+	}
+
+	.google-map iframe {
+		position: absolute;
+	  	top:0;
+	  	left: 0;
+	  	width: 100%;
+	  	height: 100%;
 	}
 
 /* List */
