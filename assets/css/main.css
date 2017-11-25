@@ -3361,18 +3361,6 @@
 						margin-left: 0;
 					}
 
-		#header.alt {
-			background: transparent;
-		}
-
-			#header.alt h1 {
-				-moz-pointer-events: none;
-				-webkit-pointer-events: none;
-				-ms-pointer-events: none;
-				pointer-events: none;
-				opacity: 0;
-			}
-
 /* Banner */
 
 	#banner {
