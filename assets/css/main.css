@@ -1977,6 +1977,14 @@
 				width: 100%;
 			}
 
+	.google-map {
+		position: relative;
+	    padding-bottom: 56.25%;
+	    padding-top: 35px;
+	    height: 0;
+	    overflow: hidden;
+	}
+
 /* List */
 
 	ol {
