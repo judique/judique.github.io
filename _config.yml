@@ -42,8 +42,12 @@ two:
             path: "images/development.png"
             alt: ""
         header: "No restrictions on property development"
-        content: "Have verification letter from local municipality that they place no restrictions on developement of property i.e. Comercial , or residential. Market search failed to reveal any comparable nearby properties at any price. Asking 3.2 million USD"
+        content: "Have verification letter from local municipality that they place no restrictions on developement of property i.e. Comercial , or residential."
 
     fourth_section:
         header: "A lot of places for entertainment"
         content: "There are a lot of golf courses to be found around the area."
+
+four:
+    header: "Current price"
+    content: "Market search failed to reveal any comparable nearby properties at any price. Asking 3.2 million USD"
