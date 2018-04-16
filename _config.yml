@@ -20,4 +20,21 @@ banner:
 
 one:
     header: "A good location"
-    content: "Imagine the possibility of a Satellite golf club property on the west coast of Cape Breton, Nova Scotia, with easy access to the world class Cabot Links and Cabot Cliffs golf courses, or a day trip to arrive at any golf course on Cape Breton. Members of your club could rotate to visit and golf in Cape Breton while staying at a club owned property that will appreciated in value as time passes. This ocean front parcel offers approximately 68 acres, with ample room for a seaside clubhouse, individual residences or condos, putting green, driving range, and even the possibility of a private airstrip. This triangular shaped peninsula offers a long sandy beach on the ocean, warm water temperatures, beautiful westward views of sunsets on the private beach over the sea, and southward views over the adjacent salt water inlet and pond where nature abounds. Have verification letter from local municipality that they place no restrictions on developement of property i.e. Comercial , or residential. Market search failed to reveal any comparable nearby properties at any price. Asking 3.2 million USD"
+    content: "Imagine the possibility of a Satellite golf club property on the west coast of Cape Breton, Nova Scotia, with easy access to the world class Cabot Links and Cabot Cliffs golf courses, or a day trip to arrive at any golf course on Cape Breton. Members of your club could rotate to visit and golf in Cape Breton while staying at a club owned property that will appreciated in value as time passes."
+
+two:
+    first_section:
+        header: "A large piece of land by the ocean"
+        content: "This ocean front parcel offers approximately 68 acres, with ample room for a seaside clubhouse, individual residences or condos, putting green, driving range, and even the possibility of a private airstrip."
+
+    second_section:
+        header: "Warm beach, beautiful sunsets"
+        content: "This triangular shaped peninsula offers a long sandy beach on the ocean, warm water temperatures, beautiful westward views of sunsets on the private beach over the sea, and southward views over the adjacent salt water inlet and pond where nature abounds"
+
+    third_section:
+        header: "No restrictions on property development"
+        content: "Have verification letter from local municipality that they place no restrictions on developement of property i.e. Comercial , or residential. Market search failed to reveal any comparable nearby properties at any price. Asking 3.2 million USD"
+
+    fourth_section:
+        header: "A lot of places for entertainment"
+        content: "There are a lot of golf courses to be found around the area."
