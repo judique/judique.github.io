@@ -24,14 +24,23 @@ one:
 
 two:
     first_section:
-        header: "A large piece of land by the ocean"
+        image:
+            path: "images/ocean-land.jpg"
+            alt: ""
+        header: "Land by the ocean"
         content: "This ocean front parcel offers approximately 68 acres, with ample room for a seaside clubhouse, individual residences or condos, putting green, driving range, and even the possibility of a private airstrip."
 
     second_section:
+        image:
+            path: "images/beach.png"
+            alt: ""
         header: "Warm beach, beautiful sunsets"
         content: "This triangular shaped peninsula offers a long sandy beach on the ocean, warm water temperatures, beautiful westward views of sunsets on the private beach over the sea, and southward views over the adjacent salt water inlet and pond where nature abounds"
 
     third_section:
+        image:
+            path: "images/development.png"
+            alt: ""
         header: "No restrictions on property development"
         content: "Have verification letter from local municipality that they place no restrictions on developement of property i.e. Comercial , or residential. Market search failed to reveal any comparable nearby properties at any price. Asking 3.2 million USD"
 
