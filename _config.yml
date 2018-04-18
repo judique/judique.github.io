@@ -46,7 +46,22 @@ two:
 
     fourth_section:
         header: "A lot of places for entertainment"
-        content: "There are a lot of golf courses to be found around the area."
+        content: "There are a lot of golf courses to be found around the area. Take a look at [this](http://scoregolf.com/golf-course-guide/cape-breton-island-golf-courses) for more information about the golf courses in Cape Breton"
+
+three:
+    title: "More information on local places"
+    content:
+        - header: "Cabot Cliffs"
+          content: "Exquisitely carved out of the breathtaking Cape Breton landscape, with postcard worthy panoramas vying for your attention and rich, rolling fairways waiting to reward your creativity, this is linksland golf at its best.  Built by dreamers, for dreamers.
+
+          [Read more](https://www.cabotlinks.com/golf/cabot-cliffs/)"
+          icon: "fa-paper-plane-o"
+
+        - header: "Hole by Hole Tour"
+          content: "Hole 1—Par 5 581 yards.   The first hole at Cabot Cliffs overlooks a significant part of the course, and as you approach the first tee, you will gaze right out towards the ocean, while in the distance you’ll see the village of Inverness and immediately get a sense of the width of the course
+
+          [Read more](https://www.cabotlinks.com/golf/cabot-cliffs/hole-by-hole-tour/)"
+          icon: "fa-laptop"
 
 four:
     header: "Current price"

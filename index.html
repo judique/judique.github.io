@@ -63,7 +63,7 @@ title: Ocean front land for sale
 			</div>
 			<div class="content">
 				<h2>{{ site.two.fourth_section.header }}</h2>
-				<p>{{ site.two.fourth_section.content }}</p>
+				<p>{{ site.two.fourth_section.content | markdownify }}</p>
 			</div>
 		</section>
 	</section>
@@ -82,17 +82,15 @@ title: Ocean front land for sale
 	<section id="three" class="wrapper style3 special">
 		<div class="inner">
 			<header class="major">
-				<h2>Location of the land</h2>
+				<h2>{{ site.three.title }}</h2>
 			</header>
 			<ul class="features">
-				<li class="icon fa-paper-plane-o">
-					<h3>Cabot trail</h3>
-					<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-				</li>
-				<li class="icon fa-laptop">
-					<h3>Whale watches</h3>
-					<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-				</li>
+				{% for post in site.three.content %}
+					<li class="icon {{ post.icon }}">
+						<h3>{{ post.header | markdownify }}</h3>
+						<p>{{ post.content | markdownify }}</p>
+					</li>
+				{% endfor %}
 			</ul>
 			<div class="google-map google-map-16x9">
 				<iframe
