@@ -49,7 +49,7 @@ two:
         content: "There are a lot of golf courses to be found around the area. Take a look at [this](http://scoregolf.com/golf-course-guide/cape-breton-island-golf-courses) for more information about the golf courses in Cape Breton"
 
 three:
-    title: "More information on local places"
+    title: "More information on nearby golf courses"
     content:
         - header: "Cabot Cliffs"
           content: "Exquisitely carved out of the breathtaking Cape Breton landscape, with postcard worthy panoramas vying for your attention and rich, rolling fairways waiting to reward your creativity, this is linksland golf at its best.  Built by dreamers, for dreamers.
@@ -57,11 +57,36 @@ three:
           [Read more](https://www.cabotlinks.com/golf/cabot-cliffs/)"
           icon: "fa-paper-plane-o"
 
-        - header: "Hole by Hole Tour"
-          content: "Hole 1—Par 5 581 yards.   The first hole at Cabot Cliffs overlooks a significant part of the course, and as you approach the first tee, you will gaze right out towards the ocean, while in the distance you’ll see the village of Inverness and immediately get a sense of the width of the course
+        - header: "Cabot Links"
+          content: "Nestled along the breathtaking shores of Cape Breton, Cabot Links is your invitation to a destination, a land, and a journey like no other. To a spellbinding time and place reminiscent of golf’s beginnings, born out of our passion for authentic linksland golf. And where unbelievable shots, extraordinary experiences, and unforgettable memories await you each and every day.
 
-          [Read more](https://www.cabotlinks.com/golf/cabot-cliffs/hole-by-hole-tour/)"
-          icon: "fa-laptop"
+          [Read more](https://www.cabotlinks.com/golf/cabot-links/)"
+          icon: "fa-paper-plane-o"
+
+        - header: "The Cape Breton Highlands"
+          content: "The Cape Breton Highlands Golf Course is one of a kind. Conceived and constructed under the watchful eye of world-renowned designer Stanley Thompson, it is a classic 18-hole, par 72 course carved out of one of Canada’s most pristine wildernesses. Come experience golfing in a way you never have before! Our course has beautiful views around every corner, as well as nature being all around you while playing through the Cape Breton National Park.
+
+          [Read more](http://kelticlodge.ca/golf/)"
+          icon: "fa-paper-plane-o"
+
+        - header: "Baddeck Forks 9-hole Golf Course"
+          content: "Baddeck Forks Golf Club is located along the beautiful Baddeck River which empties into the Bras d'Or lakes - an inland sea in the heart of Cape Breton Island.
+
+          [Read more](http://www.baddeckforksgolf.com/)"
+          icon: "fa-paper-plane-o"
+
+        - header: "Seaview Golf & Country Club"
+          content: "SEAVIEW GOLF AND COUNTRY CLUB IS RANKED AS ONE OF THE TOP 10 COURSES IN NOVA SCOTIA BY WESTJET MAGAZINE
+
+          [Read more](http://seaviewgcc.com/)"
+          icon: "fa-paper-plane-o"
+
+        - header: "Bell Bay Golf Club"
+          content: "One of Cape Breton Island’s premier golf courses, Bell Bay overlooks the Bras d’Or Lakes in beautiful Baddeck. This Thomas McBroom masterpiece has incredible views from virtually every hole. The course was sculpted into the natural features of the land to make each hole very distinctive.
+
+          [Read more](http://www.bellbaygolfclub.com/)"
+          icon: "fa-paper-plane-o"
+
 
 four:
     header: "Current price"
