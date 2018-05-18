@@ -25,7 +25,7 @@ one:
 two:
     first_section:
         image:
-            path: "images/ocean-land.jpg"
+            path: "images/ocean.png"
             alt: ""
         header: "Land by the ocean"
         content: "This ocean front parcel offers approximately 68 acres, with ample room for a seaside clubhouse, individual residences or condos, putting green, driving range, and even the possibility of a private airstrip."
